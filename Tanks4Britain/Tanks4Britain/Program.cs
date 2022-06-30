@@ -1,4 +1,4 @@
-// See https://aka.ms/new-console-template for more information
+﻿// See https://aka.ms/new-console-template for more information
 Console.WriteLine("The battlefield is thick with fog. A brave tank commander takes a drag of an un-lighted cigarette, hoping desperately to smoke it by the end of the day. Little does he suspect the Germans of rolling their own tank into his view. Panic erupts; there are only five shells left. It’s up to the commander to save the day, and smoke his cigarette in peace.");
 
 var rand = new Random();
